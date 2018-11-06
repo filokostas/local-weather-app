@@ -1,0 +1,1 @@
+FROM fkostas/localcast-weather:1.1.0
